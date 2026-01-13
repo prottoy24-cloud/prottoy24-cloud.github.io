@@ -1,0 +1,48 @@
+<html>	
+	<style>
+        body {
+            font-family: ADLaM Display;
+            background-color: lightgray;
+        
+        #main {
+            background-color: white;
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+
+        .heading {
+            color: darkblue;
+            text-align: center;
+        }
+
+        .para {
+            color: black;
+            font-size: 16px;
+        }
+
+        ul {
+            color: green;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th {
+            background-color: lightblue;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+		
+        img {
+            border: 2px solid black;
+        }
+		
+    </style>
+</html>
